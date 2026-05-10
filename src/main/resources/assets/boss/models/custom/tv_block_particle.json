@@ -1,0 +1,7 @@
+
+{
+  "parent": "boss:displaysettings/displayyykissy_missy_poppy",
+  "textures": {
+    "particle": "boss:block/kissy_missy_poppy"
+  }
+}
