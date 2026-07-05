@@ -1,0 +1,6 @@
+{
+  "parent": "nova:displaysettings/displaythe_player",
+  "textures": {
+    "layer0": "nova:item/the_player"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nova:custom/tv_block_particle"
+    }
+  }
+}

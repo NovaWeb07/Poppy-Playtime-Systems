@@ -1,6 +1,0 @@
-{
-  "parent": "boss:displaysettings/diaplyprototype",
-  "textures": {
-    "layer0": "boss:item/prototype"
-  }
-}

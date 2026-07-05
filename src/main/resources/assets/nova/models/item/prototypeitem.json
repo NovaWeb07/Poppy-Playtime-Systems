@@ -1,0 +1,6 @@
+{
+  "parent": "nova:displaysettings/diaplyprototype",
+  "textures": {
+    "layer0": "nova:item/prototype"
+  }
+}

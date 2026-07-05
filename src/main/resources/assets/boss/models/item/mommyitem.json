@@ -1,6 +1,0 @@
-{
-  "parent": "boss:displaysettings/diaplsymommy",
-  "textures": {
-    "layer0": "boss:item/mommyangry"
-  }
-}

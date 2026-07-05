@@ -1,0 +1,6 @@
+{
+  "parent": "nova:displaysettings/diaplsymommy",
+  "textures": {
+    "layer0": "nova:item/mommyangry"
+  }
+}

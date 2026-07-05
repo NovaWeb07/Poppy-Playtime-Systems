@@ -1,71 +1,28 @@
-# POPPY PLAYTIME MOD
+# Poppy Playtime Mod
 
-A horror-themed Minecraft mod inspired by the Poppy Playtime universe, bringing iconic characters, interactive gameplay elements, and roleplay-focused mechanics into Minecraft.
-
----
-
-## Overview
-
-This project adds a collection of characters and gameplay systems inspired by the Poppy Playtime series while keeping the experience immersive and survival-friendly inside Minecraft.
-
-The mod focuses on atmosphere, interaction, and custom gameplay moments rather than simple mob additions.
-
----
+A Minecraft Forge mod that brings characters and mechanics inspired by the Poppy Playtime series into Minecraft. The project includes custom entities, animations, abilities, and gameplay systems built for horror maps, multiplayer servers, and roleplay.
 
 ## Features
 
-- Popular Poppy Playtime inspired characters
-- Custom entities and animations
-- Horror-themed gameplay mechanics
-- Interactive roleplay experiences
-- Custom visual effects
-- Event-driven gameplay sequences
-- Multiplayer-friendly gameplay systems
+- Multiple custom Poppy Playtime characters
+- Animated entities using GeckoLib
+- Custom abilities and gameplay mechanics
+- Interactive blocks and items
+- Event-based systems
+- Multiplayer support
+- Configurable and expandable codebase
 
----
+## Development
 
-## Gameplay Focus
+This project is built for Minecraft Forge and is still being expanded with additional characters, mechanics, and gameplay improvements.
 
-The mod is designed around creating cinematic and interactive gameplay moments inside Minecraft worlds.
+Current areas of development include:
+- New entities
+- Improved AI behaviors
+- Additional abilities
+- Performance improvements
+- Bug fixes and balancing
 
-Players can:
-- create horror roleplay scenarios
-- explore custom encounters
-- interact with unique mobs
-- build themed adventure experiences
-- use gameplay mechanics for storytelling
+## License
 
----
-
-## Technical Notes
-
-Some systems included in the project:
-
-- Custom entity behavior handling
-- Gameplay event systems
-- Client/server interaction logic
-- Custom animation integration
-- Modular content structure
-- Optimized gameplay processing
-
----
-
-## Preview
-
-<p align="center">
-  <img src="media/Poppy1.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="media/Poppy2.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="media/Poppy3.png" width="80%" />
-</p>
-
----
-
-## Status
-
-Active project under continuous development and expansion.
+This repository is provided for portfolio and development purposes.
