@@ -1,0 +1,6 @@
+{
+  "parent": "boss:displaysettings/displaythe_player",
+  "textures": {
+    "layer0": "boss:item/the_player"
+  }
+}
